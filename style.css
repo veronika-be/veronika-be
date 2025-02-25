@@ -9,7 +9,7 @@ h1 {
         color: white;
 }
 body {
-    background-color: black;
+    background-color: black !important
     color: white;
 }
 
