@@ -1,0 +1,39 @@
+
+.center {
+    text-align: center;
+}
+h1 {
+        font-family: "Katin", serif 
+        font-weight: 400;
+        font-style: normal;
+        color: white;
+}
+body {
+    background-color: black;
+    color: white;
+}
+
+.nav-link{
+    color: white;
+}
+.active{
+    background-color: red !important;
+}
+.nav-link:hover {
+    color: #ff0000;
+}
+.btn-primary {
+    --bs-btn-color: #000000;
+    --bs-btn-bg: #ffffff;
+    --bs-btn-border-color: #ffffff;
+    --bs-btn-hover-color: #fff;
+    --bs-btn-hover-bg: #ff0000;
+    --bs-btn-hover-border-color: #ffffff; 
+    --bs-btn-disabled-border-color: #ff0707;
+}
+.btn-outline-secondary {
+    --bs-btn-color: #ffffff;
+    --bs-btn-border-color: #6c757d;
+    --bs-btn-hover-color: #fff;
+    --bs-btn-hover-bg: #ff0000;
+}
